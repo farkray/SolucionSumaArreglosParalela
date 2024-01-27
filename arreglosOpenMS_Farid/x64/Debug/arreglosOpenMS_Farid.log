@@ -1,0 +1,3 @@
+﻿  arreglosOpenMS_Farid.cpp
+C:\Users\kfari\Downloads\arreglosOpenMS_Farid\arreglosOpenMS_Farid\arreglosOpenMS_Farid.cpp(15,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  arreglosOpenMS_Farid.vcxproj -> C:\Users\kfari\Downloads\arreglosOpenMS_Farid\x64\Debug\arreglosOpenMS_Farid.exe
